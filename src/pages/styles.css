@@ -200,7 +200,7 @@
 
 .about-home-container {
   position: relative;
-  background-image: url("../../../public/images/about.jpg");
+  background-image: url("/public/images/about.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
