@@ -1,0 +1,43 @@
+.project-card {
+    height: 60vh;
+    padding-top: 100px;
+    display: flex;
+    gap: 50px;
+    margin: 0px 50px;
+}
+
+.project-image {
+    width: 80%;
+    max-width: 900px;
+    border-radius: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.project-title-container {
+    text-align: center;
+}
+
+.odd {
+    justify-content: right;
+}
+
+.project-description {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    font-size: 20px;
+    border: 1px solid blue;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.projects-title {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 160px;
+    position: absolute;
+    top: -130px;
+    left: 150px;
+}
