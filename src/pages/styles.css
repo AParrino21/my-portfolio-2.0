@@ -10,7 +10,7 @@
   align-items: center;
   height: 92vh;
   color: white;
-  background-image: url("../../public/images/heroBg.jpg");
+  background-image: url("/public/images/heroBg.jpg");
   background-size: cover;
   background-color: black;
   background-repeat: no-repeat;
