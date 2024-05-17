@@ -1,7 +1,7 @@
 export const workHistory = [
   {
     company: "Infor",
-    timeServed: "2022 - Prestent",
+    timeServed: "2022 - Present",
     everyDayTech: [
       "React",
       "TypeScript",
@@ -28,7 +28,7 @@ export const workHistory = [
       {
         name: "Plugin/Permission Manager",
         description:
-          "Dashboard for managing plugins created on Insight. Allows for control of verison updates, IAM permissions management, rollbacks, archiving,plugin deletion and renaming",
+          "Dashboard for managing plugins created on Insight. Allows for control of verison updates, IAM permissions management, rollbacks, archiving,plugin deletion and renaming.",
       },
       {
         name: "Teams Announcements",
@@ -40,16 +40,12 @@ export const workHistory = [
         description:
           "Built an intricate system of folders, files and dashboards using the team's AWS quicksight service from the ground up. Also built out the abiltiy to search and filter through dashboards, save favorites and view recents. This plugin allows users to seemlessly view all of the team's dashboard metrics for our AWS services that are currently in use.",
       },
-      {
-        name: "",
-        description: "",
-      },
     ],
-    achievements: "AWS Ceritfied Developer Associate License",
-    extras: "Currently enrolled in multiple ML/AI courses",
+    achievements: "AWS Ceritfied Developer Associate License.",
+    extras: "Currently enrolled in multiple ML/AI courses.",
   },
   {
-    company: "Senior Coding Tutor",
+    company: "2U as a Senior Coding Tutor",
     timeServed: "2021 - 2023",
     everyDayTech: [
       "React",
@@ -99,9 +95,9 @@ export const workHistory = [
           "Full Stack application that allows users to search, save and buy books using the Google Books API.",
       },
     ],
-    achievements: "Senior level title",
+    achievements: "Senior level title.",
     extras:
-      "Helped 100s of students over three years achieve success in their coding journeys",
+      "Helped 100s of students over three years achieve success in their coding journeys.",
   },
   {
     company: "AXAD Capital",
@@ -153,9 +149,9 @@ export const workHistory = [
           "Lead generation web application that helps users find the best quotes for life insurance.",
       },
     ],
-    achievements: "Lead level title",
+    achievements: "Lead level title.",
     extras:
-      "Rebuilt the engineering team, resulting in significant improvements in click-through rates and lead generation, allowing for substantial revenue increases for the company",
+      "Rebuilt the engineering team, resulting in significant improvements in click-through rates and lead generation, allowing for substantial revenue increases for the company.",
   },
   {
     company: "Fortitude Development",
@@ -188,7 +184,7 @@ export const workHistory = [
           "Customer Management System for the owners of the Facility Finder full stack web application.",
       },
     ],
-    achievements: "Director level title",
+    achievements: "Director level title.",
     extras:
       "Start up company that I was brought onto during a stage of revamping.",
   },

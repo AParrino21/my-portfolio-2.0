@@ -7,6 +7,7 @@ import ContentCopyIcon from "@mui/icons-material/ContentCopy";
 import Projects from "../components/Projects/Projects";
 import About from "../components/About/About";
 import WorkHistory from "../components/WorkHistory/WorkHistory";
+import Footer from "../components/Footer/Footer";
 
 const Home = () => {
   const [copiedEmail, setCopiedEmail] = React.useState("Click To Copy!");
@@ -105,6 +106,7 @@ const Home = () => {
         >
           <WorkHistory />
         </div>
+        <Footer />
       </div>
     </div>
   );
