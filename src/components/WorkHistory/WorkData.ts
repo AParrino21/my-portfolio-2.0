@@ -41,7 +41,7 @@ export const workHistory = [
           "Built an intricate system of folders, files and dashboards using the team's AWS quicksight service from the ground up. Also built out the abiltiy to search and filter through dashboards, save favorites and view recents. This plugin allows users to seemlessly view all of the team's dashboard metrics for our AWS services that are currently in use.",
       },
     ],
-    achievements: "AWS Ceritfied Developer Associate License.",
+    achievements: "AWS Ceritfied Developer Associate License | AWS Ceritfied AI Practitioner License | AWS Ceritfied Cloud Practitioner License",
     extras: "Currently enrolled in multiple ML/AI courses.",
   },
   {
